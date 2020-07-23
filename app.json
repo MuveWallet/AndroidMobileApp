@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "muveapp",
-    "slug": "muveapp",
+    "name": "Muve App",
+    "slug": "muve-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#0ee394"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,6 +21,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "The Frontend Prototype of the Muve App"
   }
 }
